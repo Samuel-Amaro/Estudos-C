@@ -1,0 +1,4 @@
+DADOS CADASTRAIS:
+ Nome: Samuel Amaro do Nascimento	
+ Idade = 19	
+ Peso = 63.20	

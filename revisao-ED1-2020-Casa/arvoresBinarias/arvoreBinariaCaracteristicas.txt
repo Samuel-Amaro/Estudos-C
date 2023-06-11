@@ -1,0 +1,9 @@
+* PROPRIEDADES DAS ARVORES
+raiz = não possui pai, e aonde inicia a arvore
+nos terminais ou folhas = que não possui filhos
+nos internos = tem pelo menos um filho
+altura da arvore = e o comprimento da raiz ate uma das suas folhas
+
+* PROPRIEDADES ARVORE BINARIA:
+ - cada no pode ter duas subarvores uma a esquerda outra a direita
+ - o numero de filhos de cada no e 0,1,2

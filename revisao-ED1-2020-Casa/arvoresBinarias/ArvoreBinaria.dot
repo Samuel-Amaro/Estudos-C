@@ -1,0 +1,6 @@
+digraph{
+50->25;
+50->75;
+25->5;
+75[color = blue,style = filled];
+}
